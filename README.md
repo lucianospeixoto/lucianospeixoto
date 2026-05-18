@@ -1,5 +1,5 @@
 # Olá, eu sou o Luciano! 👋
-<br>Nascido em Franca-SP, sou um entusiasta de tecnologia focado em Banco de Dados, Desenvolvimento Backend e Infraestrutura de TI. Atualmente, divido minha rotina entre os estudos de análise de sistemas e o suporte técnico corporativo.<br>🚀 No que estou focado atualmente?<br><br>🗄️ Bancos de Dados: Gerenciamento, modelagem e integração de dados com o backend.<br>🎯 Backend com Java: Aprofundando em Programação Orientada a Objetos (POO), Spring Boot e organização de repositórios limpos no GitHub.<br>📦 DevOps & Infra: Estudando Docker para containerização.<br>
+<br>Nascido em Franca-SP, sou um entusiasta de tecnologia focado em Banco de Dados, Desenvolvimento Backend e Infraestrutura de TI. Atualmente, divido minha rotina entre os estudos de análise de sistemas e o suporte técnico corporativo.<br><br>🚀 No que estou focado atualmente?<br><br>🗄️ Bancos de Dados: Gerenciamento, modelagem e integração de dados com o backend.<br>🎯 Backend com Java: Aprofundando em Programação Orientada a Objetos (POO), Spring Boot e organização de repositórios limpos no GitHub.<br>📦 DevOps & Infra: Estudando Docker para containerização.<br>
 
 
 ## 🌐 Redes Sociais:
