@@ -1,6 +1,6 @@
 # Olá, eu sou o Luciano! 👋
 
-Nascido em Franca-SP, sou um entusiasta de tecnologia focado em Banco de Dados, Desenvolvimento Backend e Infraestrutura de TI. Atualmente, divido minha rotina entre os estudos de análise de sistemas e o suporte técnico corporativo.
+Nascido em Franca-SP, sou um entusiasta de tecnologia focado em Banco de Dados, Desenvolvimento Backend (Python e Java) e Infraestrutura de TI. Atualmente, divido minha rotina entre os estudos de análise de sistemas e o suporte técnico em infraestrutura de TI corporativa.
 
 🚀 **No que estou focado atualmente?**
 
